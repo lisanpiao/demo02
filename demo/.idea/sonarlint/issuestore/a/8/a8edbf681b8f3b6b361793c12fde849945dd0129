@@ -1,0 +1,7 @@
+
+}squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ùÏáëûÿÿÿÿ8Ø®ì¹¤,
+dsquid:S1192"HDefine a constant instead of duplicating this literal "success" 3 times.(ùØ8Ø®ì¹¤,
+`squid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(ÖËÌé8Ø®ì¹¤,
+wsquid:UselessImportCheck"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ8Ø®ì¹¤,
+ksquid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Ø®ì¹¤,
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "person".(àœ’­8Ø®ì¹¤,
